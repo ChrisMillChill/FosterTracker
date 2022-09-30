@@ -4,12 +4,15 @@ Online tracker for foster parents to journal about thier foster pets.
 # How It's Made:
 Tech used: HTML, CSS, JavaScript, MongoDB
 
-Fist Full Stack Web Application!
+First Full Stack Web Application!
 
 # Optimizations
 [] Add ability to edit foster animal information
+
 [] Add ability to edit journal entries
+
 [] Differentiate between current and former fosters 
+
 [] Add prebuilt templates for various common foster animals (cats, dogs, rabbits, reptiles)
 
 # Lessons Learned:
